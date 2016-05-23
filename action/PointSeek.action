@@ -1,0 +1,10 @@
+float32 goal_N
+float32 goal_E
+---
+float32 actual_N
+float32 actual_E
+float32 actual_dist
+---
+float32 current_N
+float32 current_E
+float32 distance_from_goal
